@@ -8,7 +8,6 @@ Facilitator: [@jridgewell](https://github.com/jridgewell)
 
 - [@jridgewell](https://github.com/jridgewell) - Justin Ridgewell (Facilitator)
 - [@choumx](https://github.com/choumx) - William Chou
-- [@alabiaga](https://github.com/alabiaga) - Aaron Labiaga
 
 Github team https://github.com/orgs/ampproject/teams/wg-runtime also includes Runtime WG members.
 
