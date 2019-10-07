@@ -1,0 +1,19 @@
+title: Runtime
+description: The Runtime Working Group is responsible for AMP's core runtime, such as layout/rendering and data binding.
+facilitator:
+  login: jridgewell
+  name: Justin Ridgewell
+members:
+  - login: choumx
+    name: William Chou
+communication:
+  - channel: slack
+    name: Slack
+    content:
+      - item: "Runtime WG's members will use `#wg-runtime` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Runtime WG."
+  - channel: github
+    name: GitHub
+    content:
+      - item: "Runtime WG will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "Runtime WG will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
+      - item: "Runtime WG will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
