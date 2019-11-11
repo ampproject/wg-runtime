@@ -6,6 +6,8 @@ facilitator:
 members:
   - login: choumx
     name: William Chou
+  - login: samouri
+    name: Jake Fried
 communication:
   - channel: slack
     name: Slack
